@@ -1,0 +1,66 @@
+{
+  "project_root": "D:\\Cxh\\desktop_positioning_vision_system",
+  "raw_dir": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\cup",
+  "image_count": 23,
+  "label_count": 0,
+  "missing_label_count": 23,
+  "sample_images": [
+    "01.jpg",
+    "02.jpg",
+    "03.jpg",
+    "04.jpg",
+    "05.jpg",
+    "06.jpg",
+    "07.jpg",
+    "08.jpg",
+    "09.jpg",
+    "10.jpg"
+  ],
+  "sample_image_label_status": [
+    {
+      "image": "01.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "02.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "03.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "04.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "05.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "06.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "07.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "08.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "09.jpg",
+      "label_exists": false
+    },
+    {
+      "image": "10.jpg",
+      "label_exists": false
+    }
+  ],
+  "dataset_prepared": false,
+  "cup_yaml": null,
+  "train_images": 0,
+  "val_images": 0,
+  "readme": "D:\\Cxh\\desktop_positioning_vision_system\\README_cup_training.txt"
+}

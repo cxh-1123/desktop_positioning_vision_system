@@ -1,0 +1,8 @@
+﻿{
+    "python_path":  "D:\\Objects\\python.exe",
+    "python_version":  "Python 3.10.11",
+    "python_executable":  "D:\\Objects\\python.exe",
+    "venv_prefix":  "D:\\Objects",
+    "ultralytics_import":  "8.4.24",
+    "yolo_command":  "WARNING argument \u0027--version\u0027 does not require leading dashes \u0027--\u0027, updating to \u0027version\u0027.\r\n8.4.24"
+}

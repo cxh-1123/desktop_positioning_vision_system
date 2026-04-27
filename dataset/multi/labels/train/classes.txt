@@ -1,0 +1,8 @@
+bottle
+box
+cable
+small_item
+daily_item
+book
+tool
+d

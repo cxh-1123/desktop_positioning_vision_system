@@ -1,0 +1,172 @@
+{
+  "root": "D:\\Cxh\\desktop_positioning_vision_system",
+  "raw_root": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images",
+  "output_root": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi",
+  "total_images": 473,
+  "train_images": 378,
+  "val_images": 95,
+  "copied_labels": 0,
+  "missing_labels": 473,
+  "yaml": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\multi.yaml",
+  "classes": [
+    "cup",
+    "bottle",
+    "box",
+    "cable",
+    "stationery",
+    "tool"
+  ],
+  "create_empty_labels": true,
+  "missing_label_examples": [
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5334.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5334.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5334.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5243.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5243.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5243.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5484.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5484.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5484.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5046.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5046.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5046.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5327.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5327.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5327.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5481.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5481.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5481.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5419.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5419.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5419.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5155.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5155.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5155.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_3926.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_3926.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_3926.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5233.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5233.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5233.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5501.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5501.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5501.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5414.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5414.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5414.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5222.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5222.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5222.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5415.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5415.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5415.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5215.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5215.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5215.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5045.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5045.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5045.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5504.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5504.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5504.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5143.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5143.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5143.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5049.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5049.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5049.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5470.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5470.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5470.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5358.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5358.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5358.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5241.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5241.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5241.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5406.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5406.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5406.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5074.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5074.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5074.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5182.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5182.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5182.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5219.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5219.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5219.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5236.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5236.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5236.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_3933.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_3933.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_3933.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5332.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5332.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5332.txt"
+    },
+    {
+      "image_source": "D:\\Cxh\\desktop_positioning_vision_system\\raw_images\\test\\IMG_5063.jpeg",
+      "image_in_dataset": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\images\\train\\test_IMG_5063.jpeg",
+      "expected_label": "D:\\Cxh\\desktop_positioning_vision_system\\dataset\\multi\\labels\\train\\test_IMG_5063.txt"
+    }
+  ]
+}

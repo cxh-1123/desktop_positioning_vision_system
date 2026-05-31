@@ -1,0 +1,7 @@
+path: D:/Cxh/desktop_positioning_vision_system/dataset/cup
+train: images/train
+val: images/val
+
+nc: 1
+names:
+  0: cup

@@ -1,10 +1,13 @@
 path: D:/Cxh/desktop_positioning_vision_system/dataset/multi
 train: images/train
 val: images/val
+
+nc: 7
 names:
-  0: cup
-  1: bottle
-  2: box
-  3: cable
-  4: stationery
-  5: tool
+  0: bottle
+  1: box
+  2: cable
+  3: small_item
+  4: daily_item
+  5: book
+  6: tool
